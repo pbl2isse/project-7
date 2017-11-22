@@ -13,6 +13,7 @@
 		75F0C3331FBEA4D400CAFDFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75F0C3321FBEA4D400CAFDFD /* Assets.xcassets */; };
 		75F0C3361FBEA4D400CAFDFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75F0C3341FBEA4D400CAFDFD /* LaunchScreen.storyboard */; };
 		BEDD4D3C1FC5350F00D0A081 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD4D3B1FC5350F00D0A081 /* SwiftyJSON.swift */; };
+		BEDD4D3E1FC5384300D0A081 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD4D3D1FC5384300D0A081 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		75F0C3351FBEA4D400CAFDFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		75F0C3371FBEA4D400CAFDFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEDD4D3B1FC5350F00D0A081 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		BEDD4D3D1FC5384300D0A081 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BEDD4D3B1FC5350F00D0A081 /* SwiftyJSON.swift */,
 				75F0C32B1FBEA4D400CAFDFD /* AppDelegate.swift */,
 				75F0C32D1FBEA4D400CAFDFD /* ViewController.swift */,
+				BEDD4D3D1FC5384300D0A081 /* DetailViewController.swift */,
 				75F0C32F1FBEA4D400CAFDFD /* Main.storyboard */,
 				75F0C3321FBEA4D400CAFDFD /* Assets.xcassets */,
 				75F0C3341FBEA4D400CAFDFD /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				BEDD4D3C1FC5350F00D0A081 /* SwiftyJSON.swift in Sources */,
 				75F0C32E1FBEA4D400CAFDFD /* ViewController.swift in Sources */,
 				75F0C32C1FBEA4D400CAFDFD /* AppDelegate.swift in Sources */,
+				BEDD4D3E1FC5384300D0A081 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
